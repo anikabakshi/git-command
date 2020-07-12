@@ -62,3 +62,6 @@ function draw(){
     bird.display();
     platform.display();
 }
+
+//today is sunday.
+//I am very happy!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
